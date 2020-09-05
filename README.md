@@ -1,4 +1,2 @@
 # pyhorse
-請安裝模組，win32api：
-
-Scripts\pip install pypiwin32
+用pytohn寫木馬
